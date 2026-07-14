@@ -21,4 +21,6 @@ Rather than keeping information across multiple documents, this project follows 
 - Excel Fundamentals
 ## Status
 
-Active Development
+## Status
+
+Foundation Phase
